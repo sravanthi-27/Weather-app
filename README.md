@@ -61,5 +61,5 @@ The response data is parsed and displayed on the page
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e7fcb480-2608-4e03-ad74-dd7b71edf85e" width="45%" height="500"/>
-  <img src="https://github.com/user-attachments/assets/95e1163f-885c-4e17-93e8-4f49c6e19123" height="500" />
+  <img src="https://github.com/user-attachments/assets/95e1163f-885c-4e17-93e8-4f49c6e19123" height="300" />
 </p>
