@@ -60,6 +60,6 @@ The response data is parsed and displayed on the page
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7fcb480-2608-4e03-ad74-dd7b71edf85e" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e7fcb480-2608-4e03-ad74-dd7b71edf85e" width="45%" margin-top="0%"/>
   <img src="https://github.com/user-attachments/assets/95e1163f-885c-4e17-93e8-4f49c6e19123" width="45%" />
 </p>
